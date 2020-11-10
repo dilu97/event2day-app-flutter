@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "162164700788",
+    "firebase_url": "https://event2day-admin.firebaseio.com",
+    "project_id": "event2day-admin",
+    "storage_bucket": "event2day-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162164700788:android:f2337364cd4b46db5f0321",
+        "android_client_info": {
+          "package_name": "com.paperaffa.event2day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162164700788-39304emai2t7eucptc0usukl7tavcgrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paperaffa.event2day",
+            "certificate_hash": "7bc95ca7ff4b6efb07aefe4fca390583bf99dc01"
+          }
+        },
+        {
+          "client_id": "162164700788-t9ntverf7tb6fk06eanb5u5bo3ve8ep1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paperaffa.event2day",
+            "certificate_hash": "ee8449b37849d6130767bfc7d63742d60f1b0e01"
+          }
+        },
+        {
+          "client_id": "162164700788-8ej4684ibanl4pu3ri9ebgv8oaqs2ai1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgJKYd9UFy2ZuR3tJTf6gc0c4LTq9ozM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162164700788-8ej4684ibanl4pu3ri9ebgv8oaqs2ai1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

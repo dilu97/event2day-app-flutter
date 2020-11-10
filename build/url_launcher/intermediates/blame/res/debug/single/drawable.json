@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/davide/Scrivania/event2day/event2day/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/davide/.gradle/caches/transforms-2/files-2.1/aafef0879a74786e0e084911877b2a52/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/davide/Scrivania/event2day/event2day/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/davide/.gradle/caches/transforms-2/files-2.1/aafef0879a74786e0e084911877b2a52/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/davide/Scrivania/event2day/event2day/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/davide/.gradle/caches/transforms-2/files-2.1/aafef0879a74786e0e084911877b2a52/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/davide/Scrivania/event2day/event2day/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/davide/.gradle/caches/transforms-2/files-2.1/aafef0879a74786e0e084911877b2a52/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]
